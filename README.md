@@ -1,7 +1,7 @@
 # Capstone-EDA-Project-Google-Play-Store-Apps-Reviews-Analysis
 Analyzing app trends and user sentiment on Google Play Store to drive business insights using Pandas, Seaborn, and Matplotlib.
 
-                                                GOOGLE PLAY STORE APPS & REVIEWS ANALYSIS
+                                    GOOGLE PLAY STORE APPS & REVIEWS ANALYSIS
 
 A.	Project Overview:
 This project aims to analyze the Google Play Store dataset to derive insights into app ratings, pricing strategies, and user sentiment. By cleaning and visualizing the data, we can understand the key factors that contribute to an app's success in a competitive market.
